@@ -2,7 +2,7 @@
 ## Info for the reviewer:
 Please find in the repository the notebook for the capstone project:
 ```
-dog_app.ipynb
+./dog_app.ipynb
 ```
 ## Report for the project evaluation:
 A report commenting and addressing the rubric items needed for the capstone project:
